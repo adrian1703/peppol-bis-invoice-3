@@ -2,9 +2,10 @@
 <!--
 
     Licensed under European Union Public Licence (EUPL) version 1.2.
+    Last update 2024 May release 1.3.13 
 
 -->
-<!--Schematron version 1.3.10 - Last update: 2023-04-08--><schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2">
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2">
   <ns prefix="ext" uri="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" />
   <ns prefix="cbc" uri="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" />
   <ns prefix="cac" uri="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" />
